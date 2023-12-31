@@ -21,8 +21,8 @@ Create the LinearRegression model and predict the output.
 ## Program:
 ```
 #program for Implementation of Multivariate Linear Regression
-#developed by: TAMILARASAN K S.
-#register number:23000080
+#developed by: AARON RAJESH R.
+#register number:23008897
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("cars.csv")
